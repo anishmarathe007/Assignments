@@ -1,0 +1,1 @@
+This library is fairly new, but it's a fork of a library that's been floating around Python for years and has been used quite a bit. Since I found this library years ago, I very seldom use os.path or open() any more.
